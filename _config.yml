@@ -1,6 +1,6 @@
 title: 'Save Me - Doubting Thomas Band'
 path: ""
-baseurl: "/dtb"
+baseurl: ""
 
 exclude:
   - README.md
